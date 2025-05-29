@@ -1,7 +1,7 @@
 # Fuck the rankings
 
 Who the hell am I?
-{ 20140619 }
+{ 20140620 }
 
 What fucking year is it?
-[ 2025-05-29T14:26:40Z ]
+[ 2025-05-29T15:30:00Z ]

@@ -1,7 +1,7 @@
 # Fuck the rankings
 
 Who the hell am I?
-{ 20190299 }
+{ 20190300 }
 
 What fucking year is it?
-[ 2025-06-17T17:36:40Z ]
+[ 2025-06-17T18:40:00Z ]
